@@ -1,18 +1,18 @@
 /* Global page and element settings ----------------------------------------------------- */
 body {
   font-size: 16px;
-  font-family: "Helvetica"; /*, Arial, sans-serif;#F5EFEF, #110F3E*/
-  background:white;
+  font-family: "Helvetica"; /*, Arial, sans-serif;#F5EFEF. #1585cf,*/
+  background: white;
 }
 
 
 /* Colors */
 .dark-blue{
-  color: white !important;
+  color: #110F3E !important;
 }
 
 #badge-more {
-  background-color: #1585cf;
+  background-color: #110F3E;
   color: white;
   cursor: pointer;
 }
