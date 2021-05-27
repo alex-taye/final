@@ -1,13 +1,14 @@
 /* Global page and element settings ----------------------------------------------------- */
 body {
   font-size: 16px;
-  font-family: "Open Sans", Arial, sans-serif;
-  background: #FFFFFF;
+  font-family: "Helvetica"; /*, Arial, sans-serif;*/
+  background: #F5EFEF;
 }
+
 
 /* Colors */
 .dark-blue{
-  color: #20364c !important;
+  color: #110F3E !important;
 }
 
 #badge-more {
